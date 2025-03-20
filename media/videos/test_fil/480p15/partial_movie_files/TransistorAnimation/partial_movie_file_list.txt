@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/1185818338_1495485085_3930300768.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_1839128356_1573969321.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_534627334_3311883448.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_35230978_4095935369.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_1839128356_3881780530.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_2114098397_703956780.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_2408024828_3048738265.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/TransistorAnimation/624642324_1166261244_2358810818.mp4'

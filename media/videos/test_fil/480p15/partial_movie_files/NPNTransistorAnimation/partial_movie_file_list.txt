@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/1185818338_1007893013_2960116256.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_3201849554_2164494318.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_3799068112_492969576.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_3201849554_3891492701.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_2474872352_732368548.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_2408024828_4095499943.mp4'
+file 'file:C:/Users/schol/Downloads/Manim_test/media/videos/test_fil/480p15/partial_movie_files/NPNTransistorAnimation/624642324_2112662094_2358810818.mp4'
