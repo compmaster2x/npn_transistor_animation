@@ -1,5 +1,10 @@
 from manim import *
 
+
+
+print("ja sasy biby");# my new code goes herer
+
+
 class NPNTransistorAnimation(Scene):
     def construct(self):
         # Области транзистора
@@ -7,7 +12,8 @@ class NPNTransistorAnimation(Scene):
         base = Rectangle(width=1, height=3, color=PURPLE, fill_opacity=0.5).move_to(LEFT * 1)
         collector = Rectangle(width=2, height=3, color=RED, fill_opacity=0.5).move_to(RIGHT * 1.5)
 
-        # Подписи
+      
+
         emitter_label = Text("Эмиттер", color=WHITE).next_to(emitter, DOWN)
         base_label = Text("База", color=WHITE).next_to(base, DOWN)
         collector_label = Text("Коллектор", color=WHITE).next_to(collector, DOWN)
